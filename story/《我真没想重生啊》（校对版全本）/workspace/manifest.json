@@ -1,0 +1,26 @@
+{
+  "book_name": "《我真没想重生啊》（校对版全本）",
+  "source_txt": "/workspace/《我真没想重生啊》（校对版全本）.txt",
+  "project_dir": "/workspace/story/《我真没想重生啊》（校对版全本）",
+  "encoding": "utf-8",
+  "chunk_mode": "chapter",
+  "chunk_count": 341,
+  "source_char_count": 3516485,
+  "stage_size": null,
+  "stage_mode": "narrative",
+  "total_chapters": 1075,
+  "outputs": {
+    "book_profile": "outputs/书籍画像.md",
+    "method_cards": [
+      "outputs/方法卡/开篇规划方法卡.md",
+      "outputs/方法卡/大纲设计方法卡.md",
+      "outputs/方法卡/章节类型与写作模式方法卡.md",
+      "outputs/方法卡/冲突与角色设计方法卡.md",
+      "outputs/方法卡/读者情绪管理方法卡.md",
+      "outputs/方法卡/长篇创作与文风优化方法卡.md"
+    ],
+    "case_cards_dir": "outputs/案例卡",
+    "case_card_template": "workspace/案例卡模板.md",
+    "case_type_reference": "workspace/推荐案例类型.md"
+  }
+}
