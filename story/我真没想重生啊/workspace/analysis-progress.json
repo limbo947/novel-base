@@ -1,12 +1,14 @@
 {
   "project_dir": "/workspace/story/我真没想重生啊",
-  "status": "in_progress",
-  "current_stage": "开篇",
+  "status": "finalized",
+  "current_stage": null,
   "stage_size": 8,
   "chunk_total": 341,
-  "processed_chunks": 1,
+  "processed_chunks": 341,
   "created_at": "2026-04-18T20:34:38+00:00",
-  "updated_at": "2026-04-19T00:00:00+00:00",
-  "finalized_at": null,
-  "stage_mode": "narrative"
+  "updated_at": "2026-04-19T06:14:00+00:00",
+  "finalized_at": "2026-04-19T06:14:00+00:00",
+  "stage_mode": "narrative",
+  "final_note": "",
+  "ready_case_cards": 22
 }
